@@ -1,0 +1,23 @@
+{
+	"name": "XSmart",
+	"date": "2020.01.27",
+	"version": "1.0.0",
+	"description": "XSmart - Программа которая предоставляет комфортный просмотр сайтов на устройствах с функцией Smart TV.",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/xsmart.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "XSmart",
+		"legacy": true,
+		"description": "XSmart - Программа которая предоставляет комфортный просмотр сайтов на устройствах с функцией Smart TV.",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
